@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-cloud-provider-payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cloud-consumer-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-cloud-api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-cloud-eureka-service7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-cloud-eureka-service7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-cloud-provider-payment8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07cloud-provider-payment8004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-cloud-consumerzkookeeper-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-cloud-provoderconsul-payment8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-cloud-consumerconsul-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-cloud-consumerconsul-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11cloud-consumer-feign-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08-cloud-consumerzk-order80/08-cloud-consumerzk-order80.iml" filepath="$PROJECT_DIR$/08-cloud-consumerzk-order80/08-cloud-consumerzk-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-cloud-provoderconsul-payment8006/09-cloud-provoderconsul-payment8006.iml" filepath="$PROJECT_DIR$/09-cloud-provoderconsul-payment8006/09-cloud-provoderconsul-payment8006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-cloud-consumerconsul-order80/10-cloud-consumerconsul-order80.iml" filepath="$PROJECT_DIR$/10-cloud-consumerconsul-order80/10-cloud-consumerconsul-order80.iml" />
+    </modules>
+  </component>
+</project>

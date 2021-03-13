@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="09-cloud-provoderconsul-payment8006" />
+        <module name="08-cloud-consumerzkookeeper-order80" />
+        <module name="10-cloud-consumerconsul-order80 (1)" />
+        <module name="05-cloud-eureka-service7002" />
+        <module name="06-cloud-provider-payment8002" />
+        <module name="11cloud-consumer-feign-order80" />
+        <module name="01-cloud-provider-payment8001" />
+        <module name="07cloud-provider-payment8004" />
+        <module name="04-cloud-eureka-service7001" />
+        <module name="02-cloud-consumer-order80" />
+        <module name="03-cloud-api-commons" />
+        <module name="10-cloud-consumerconsul-order80" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-eureka-server" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-cloud-provider-payment8001" options="-parameters" />
+      <module name="01-eureka-server" options="-parameters" />
+      <module name="02-cloud-consumer-order80" options="-parameters" />
+      <module name="03-cloud-api-commons" options="-parameters" />
+      <module name="04-cloud-eureka-service7001" options="-parameters" />
+      <module name="05-cloud-eureka-service7002" options="-parameters" />
+      <module name="06-cloud-provider-payment8002" options="-parameters" />
+      <module name="07cloud-provider-payment8004" options="-parameters" />
+      <module name="08-cloud-consumerzkookeeper-order80" options="-parameters" />
+      <module name="09-cloud-provoderconsul-payment8006" options="-parameters" />
+      <module name="10-cloud-consumerconsul-order80" options="-parameters" />
+      <module name="10-cloud-consumerconsul-order80 (1)" options="-parameters" />
+      <module name="11cloud-consumer-feign-order80" options="-parameters" />
+      <module name="untitled" options="-parameters" />
+    </option>
+  </component>
+</project>
